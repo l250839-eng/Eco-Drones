@@ -35,11 +35,13 @@ This project is a **responsive single-page website** created using **HTML5 and C
 ## Screenshots
 
 ### Desktop View
-![Desktop Screenshot](assets\desktop ss.png)
+![Desktop Screenshot](<img width="950" height="479" alt="desktop ss" src="https://github.com/user-attachments/assets/b5eddc66-ce76-4a56-8307-9f04f6951f2e" />
+)
 
 
 ### Mobile View
-![Mobile Screenshot](assets\mobile ss.png)
+![Mobile Screenshot](<img width="1210" height="2122" alt="mobile ss" src="https://github.com/user-attachments/assets/4f2f087f-7f8f-443e-8248-16712f651d07" />
+)
 
 ---
 
