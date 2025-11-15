@@ -50,8 +50,8 @@ Check the live website on GitHub Pages:
 ---
 
 ## HTML & CSS Validation
-- HTML Validator: [W3C Validator HTML](https://validator.w3.org/nu/?index.html)  
-- CSS Validator: [W3C Validator CSS](https://jigsaw.w3.org/css-validator/validator?uri=https://l250839-eng.github.io/Eco-Drones/style.css)
+- HTML Validator: [W3C Validator HTML](https://github.com/l250839-eng/Eco-Drones/blob/main/assets/Screenshot%202025-11-15%20000622.png)  
+- CSS Validator: [W3C Validator CSS](https://github.com/l250839-eng/Eco-Drones/blob/main/assets/Screenshot%202025-11-15%20000820.png)
 
 
 
