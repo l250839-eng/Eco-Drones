@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eco Drone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <header> 
+        <div class="container">
+            <img src="assets/drone1.jpg.png" alt="Eco-Drone Logo" class="logo">
+            <h1>Eco Drone</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#preorder">Pre-Order</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+  
+    <main class="container">
+       
+        <section id="about">
+            <h2>About EcoDrone</h2>
+            <p>EcoDrone is an eco-friendly drone for everyone!</p>
+        </section>
+
+       
+        <section id="features">
+            <h2>Features</h2>
+            <div class="features-grid">
+                <article class="feature">
+                    <img src="assets/drone2.jpg.webp" alt="Drone for exploring nature">
+                    <p>Capture Stunning Photos and Videos from the Sky.</p>
+                </article>
+
+                <article class="feature">
+                    <h3>Solar Powered</h3>
+                    <p>Fly Without Batteries!</p>
+                </article>
+
+                <article class="feature">
+                    <h3>Light Weight</h3>
+                    <p>Easy to Carry Anywhere.</p>
+                </article>
+
+                <article class="feature">
+                    <h3>Smart Controls</h3>
+                    <p>Control With Your Phone App.</p>
+                </article>
+            </div>
+        </section>
+
+       
+        <section id="preorder">
+            <h2>Pre-Order Now</h2>
+            <div class="form-container">
+                <form>
+                  
+                    <div class="form-group">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" placeholder="Your Name" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" placeholder="you@example.com" required>
+                    </div>
+
+                   
+                    <div class="form-group">
+                        <label>Select Your Drone Interests:</label>
+                        <div class="checkbox-group">
+                            <label class="checkbox-item">
+                                <input type="checkbox" id="photography" name="interest" value="Photography">
+                                Photography
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" id="newsletter" name="interest" value="Newsletter">
+                                Newsletter
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" id="package-delivery" name="interest" value="Package Delivery">
+                                Package Delivery
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Select Your Pre-Order Plan:</label>
+                        <div class="radio-group">
+                            <label class="radio-item">
+                                <input type="radio" name="plan" value="basic" required> Basic Plan
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="plan" value="pro" required> Pro Plan
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="plan" value="premium" required> Premium Plan
+                            </label>
+                        </div>
+                    </div>
+
+                   
+                    <div class="form-group">
+                        <label for="color">Select Your Favourite Drone Color:</label>
+                        <select name="color" id="color" required>
+                            <option value="">---Choose a Color---</option>
+                            <option value="red">Red</option>
+                            <option value="blue">Blue</option>
+                            <option value="green">Green</option>
+                            <option value="black">Black</option>
+                        </select>
+                    </div>
+
+                   
+                    <div class="form-group">
+                        <label for="notes">Additional Notes:</label>
+                        <textarea name="notes" id="notes" rows="4" placeholder="Write Your Message Here..."></textarea>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <button type="submit">Pre-Order Now</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <img src="assets/drone3.svg" width="30" alt="Drone Logo">
+            <p>&copy; 2025 All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>
