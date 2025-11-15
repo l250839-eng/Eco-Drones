@@ -35,17 +35,17 @@ This project is a **responsive single-page website** created using **HTML5 and C
 ## Screenshots
 
 ### Desktop View
-![Desktop Screenshot](https://github.com/l250839-eng/Eco-Drones/blob/main/assets/desktop%20ss.png)
+![Desktop Screenshot](assets/desktopss.png)
 
 
 ### Mobile View
-![Mobile Screenshot](https://github.com/l250839-eng/Eco-Drones/blob/main/assets/mobile%20ss.png)
+![Mobile Screenshot](assets/mobiless.png)
 
 ---
 
 ## Live Site
 Check the live website on GitHub Pages:  
-[**Eco-Drones Live**](https://your-username.github.io/Eco-Drones/)
+[**Eco-Drones Live**](https://l250839-eng.github.io/Eco-Drones/)
 
 ---
 
