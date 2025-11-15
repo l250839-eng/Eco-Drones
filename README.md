@@ -34,12 +34,12 @@ This project is a **responsive single-page website** created using **HTML5 and C
 
 ## Screenshots
 
-### Desktop View
-![Desktop Screenshot](assets/desktopss.png)
-
-
 ### Mobile View
-![Mobile Screenshot](assets/mobiless.png)
+![Desktop Screenshot](https://github.com/l250839-eng/Eco-Drones/blob/main/assets/mobile%20ss.png?raw=true)
+
+
+### Desktop View
+![Mobile Screenshot](https://github.com/l250839-eng/Eco-Drones/blob/main/assets/desktop%20ss.png?raw=true)
 
 ---
 
